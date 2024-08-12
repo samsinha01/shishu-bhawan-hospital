@@ -1,0 +1,81 @@
+.m-0{
+    margin:0;
+}
+.p-0{
+    padding:0;
+}
+.drop-shadow{
+    filter: drop-shadow(2px 4px 6px #888);
+} 
+article{
+    padding:20px 0px;
+}
+section{
+    margin-bottom:15px;
+}
+.aboutation{
+    background-color: #0000ff70;
+    padding:5px 10px;
+    margin:10px 0px 5px;
+    border-radius:5px;
+}
+.aboutation p,b{
+    color:black;
+}
+.text-black{
+    color:black;
+}
+.text-blue{
+    color:#08086d;
+}
+section h1{
+    filter: drop-shadow(2px 4px 6px #888);
+}
+.service-content>p,.service-content>p>b>i{
+    color:black;
+}
+
+.service-content i{
+    color:red;
+}
+section>div>h1, .service-content>h1{
+    font-size:28px;
+    font-weight:bold;
+}
+
+/***************doctor-card-css*******************/
+.card{
+    text-align: center;
+    box-shadow: 0px 0px 10px 2px #ddd;
+}
+figure{
+    margin:0;
+}
+.card>figure>img{
+    padding: 10px;
+    width: 65%;
+    height: 173px;
+    border-radius: 50%;
+    transition: all 1s ease;
+}
+.card:hover figure>img{
+    transform:scale(1.05);
+}
+figcaption{
+    padding: 10px;
+}
+.inner-doc-card{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+    justify-content:center;
+}
+.card{
+    width:310px;
+    height:auto;
+}
+@media(max-width:659px){
+    article{
+        padding:10px 0px;
+    }
+}

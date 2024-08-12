@@ -1,0 +1,90 @@
+.gallery-bg{
+    background: url('../img/gallery/about01.jpg') no-repeat center;
+    background-size: cover;
+    width:100%;
+    height:400px;
+    position:relative;
+}
+.aboutation{
+    background-color:#115c9b;
+    padding:5px 10px;
+    color:#fff;
+    position:absolute;
+    bottom:15px;
+    left:0px;
+    right:0px;
+    margin:0px 10px;
+    border-radius:5px;
+}
+
+#gal-active>a{
+    background-color: #115c9b;
+    color:#fff;
+    font-weight:bold;
+}
+.inner-sec-1{
+    padding:30px 0px;
+}
+.inner-sec-1>ul{
+    list-style-type:none;
+}
+.inner-sec-1>ul>li{
+    display:inline-block;
+    margin:0px 10px;
+}
+.inner-sec-1>ul>li>a{
+    display:block;
+    padding:5px 10px;
+    color:#115c9b;
+    border:1px solid #115c9b;
+    border-radius:10px;
+    font-weight:bold;
+    transition:.6s ease;
+}
+.inner-sec-1>ul>li>a:hover{
+    background-color: #115c9b;
+    color:#fff;
+}
+.sec-2{
+    padding-top:20px;
+}
+.gelImg{
+    border:6px solid #fff;
+    border-radius:5px;
+    box-shadow:0px 0px 10px 2px #ddd;
+    transition:.7s ease;
+}
+.gelImg:hover{
+    transform:scale(1.1);
+    z-index:5;
+}
+.gelImg>a{
+    display:block;
+}
+.gelImg>a>img{
+    border-radius:5px;
+    width:100%;
+    height:200px;
+}
+
+
+@media(min-width:1110px){
+    .inner-sec-2, .inner-sec-2-nicu, .inner-sec-2-picu{
+        display:grid;
+        grid-template-columns:24% 24% 24% 25%;
+        gap:15px;
+    }
+}
+
+@media(min-width:720px) and (max-width:1109px){
+    .inner-sec-2, .inner-sec-2-nicu, .inner-sec-2-picu{
+        display:grid;
+        grid-template-columns:49% 49%;
+        gap:10px;
+    }
+}
+@media(max-width:719px){
+    .gelImg{
+        margin:5px 0px 10px;
+    }
+}
