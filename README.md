@@ -31,7 +31,7 @@ Make sure you have the following installed before starting:
 ### 3️⃣ Place Your PHP Files 🗂️  
 1. Go to the `htdocs` folder in your XAMPP installation directory:  
 
-### find httdoc according to OS 
+### ⚡ find httdoc according to OS 
   1. Windows: C:\xampp\htdocs
   2. macOS: /Applications/XAMPP/htdocs
 
