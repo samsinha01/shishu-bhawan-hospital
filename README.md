@@ -101,7 +101,7 @@ This guide is open-sourced under the [MIT License](LICENSE).
 **Frontend Developer | UI/UX Designer**  
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/sameer-sinha-546b4a280)  
-📫 Email: [sameer.sinha@example.com](mailto:anuragsinha.20411@gmail.com)  
+📫 Email: [anuragsinha.20411@gmail.com](mailto:anuragsinha.20411@gmail.com)  
 
 ## 👨‍💻 About Me
 
