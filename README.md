@@ -103,16 +103,6 @@ This guide is open-sourced under the [MIT License](LICENSE).
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/sameer-sinha-546b4a280)  
 📫 Email: [sameer.sinha@example.com](mailto:anuragsinha.20411@gmail.com)  
 
-> _“Designing intuitive and visually appealing user experiences.”_  
-
----
-
-
-
-> **Happy Coding!** 💻✨  
-
----
-
 ## 👨‍💻 About Me
 
 ### **Sameer Sinha**  
@@ -129,4 +119,7 @@ I am a passionate **Frontend/UI-UX Developer** with over **2+ years of experienc
 - **Other Skills**: Dart, Canva 🎨
 
 Feel free to connect with me or explore my work! 😊
-- **anuragsinha.20411@gmail.com**
+
+> _“Designing intuitive and visually appealing user experiences.”_  
+
+---
